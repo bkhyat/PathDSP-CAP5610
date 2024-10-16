@@ -14,7 +14,7 @@ Where feature_1 to feature_n are the pathway enrichment scores and the chemical 
 # Usage:
 ```python
 # run FNN 
-python ./PathDSP/PathDSP/FNN.py -i input.txt -o ./output_prefix
+python ./PathDSP/FNN.py -i input.txt -o ./output_prefix
 
 Where input.txt should be in the input format shown above. 
 Example input file can be found at https://zenodo.org/record/7532963
